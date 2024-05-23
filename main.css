@@ -1,0 +1,1236 @@
+
+  /* ===============ROUND TWO===================================================================== */
+
+
+  
+  .css-33gw4 {
+    height: 100vh;
+  }
+  .css-33gw4 .content-center {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    min-height: 100vh;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    padding: 1.25rem;
+  }
+  .css-33gw4 .content-right {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    min-height: 100vh;
+    overflow-x: hidden;
+    position: relative;
+  }
+  .css-1bguz3s {
+    min-height: 100vh;
+    overflow-x: hidden;
+    position: relative;
+  }
+  .css-2b2w37 {
+    background-color: #fff;
+    color: rgba(58, 53, 65, 0.87);
+    -webkit-transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 6px;
+    box-shadow: 0px 2px 1px -1px rgba(58, 53, 65, 0.2),
+      0px 1px 1px 0px rgba(58, 53, 65, 0.14),
+      0px 1px 3px 0px rgba(58, 53, 65, 0.12);
+    background-image: none;
+    overflow: hidden;
+    box-shadow: 0px 2px 10px 0px rgba(58, 53, 65, 0.1);
+    z-index: 1;
+  }
+  .css-2b2w37 .card-more-options {
+    margin-top: -0.25rem;
+    margin-right: -0.75rem;
+  }
+  @media (min-width: 600px) {
+    .css-2b2w37 {
+      width: 28rem;
+    }
+  }
+  .css-1olb7mw {
+    padding: 16px;
+    padding: 1.25rem;
+    padding: 3rem 2.25rem 1.75rem !important;
+  }
+  .css-1olb7mw:last-child {
+    padding-bottom: 24px;
+  }
+  .css-1olb7mw + .MuiCardContent-root {
+    padding-top: 0;
+  }
+  .css-1olb7mw:last-of-type {
+    padding-bottom: 1.25rem;
+  }
+  .css-1olb7mw + .MuiCardActions-root {
+    padding-top: 0;
+  }
+  .css-1vmv954 {
+    margin-bottom: 2rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .css-1cb7fve {
+    margin: 0;
+    font-family: Inter, sans-serif, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 500;
+    font-size: 1.125rem;
+    line-height: 1.6;
+    letter-spacing: 0.15px;
+    color: rgba(58, 53, 65, 0.87);
+    margin-left: 0.75rem;
+    line-height: 1;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 1.5rem !important;
+  }
+  @media (min-width: 600px) {
+    .css-1cb7fve {
+      font-size: 1.25rem;
+    }
+  }
+  @media (min-width: 900px) {
+    .css-1cb7fve {
+      font-size: 1.25rem;
+    }
+  }
+  @media (min-width: 1200px) {
+    .css-1cb7fve {
+      font-size: 1.25rem;
+    }
+  }
+  .css-1fobf8d {
+    margin-bottom: 1.5rem;
+  }
+  .css-vsfzib {
+    margin: 0;
+    font-family: Inter, sans-serif, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 1.334;
+    letter-spacing: 0;
+    color: rgba(58, 53, 65, 0.87);
+    font-weight: 600;
+    margin-bottom: 0.375rem;
+  }
+  @media (min-width: 600px) {
+    .css-vsfzib {
+      font-size: 1.3118rem;
+    }
+  }
+  @media (min-width: 900px) {
+    .css-vsfzib {
+      font-size: 1.4993rem;
+    }
+  }
+  @media (min-width: 1200px) {
+    .css-vsfzib {
+      font-size: 1.4993rem;
+    }
+  }
+  .css-4yvesp {
+    margin: 0;
+    font-family: Inter, sans-serif, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    letter-spacing: 0.15px;
+    color: rgba(58, 53, 65, 0.68);
+  }
+  .css-nbxxrn {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    vertical-align: top;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .css-1dwrxu1 {
+    color: rgba(58, 53, 65, 0.87);
+    font-family: Inter, sans-serif, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.4375em;
+    letter-spacing: 0.15px;
+    padding: 0;
+    position: relative;
+    display: block;
+    transform-origin: top left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: calc(100% - 24px);
+    position: absolute;
+    left: 0;
+    top: 0;
+    -webkit-transform: translate(14px, 16px) scale(1);
+    -moz-transform: translate(14px, 16px) scale(1);
+    -ms-transform: translate(14px, 16px) scale(1);
+    transform: translate(14px, 16px) scale(1);
+    -webkit-transition: color 200ms cubic-bezier(0, 0, 0.2, 1) 0ms,
+      -webkit-transform 200ms cubic-bezier(0, 0, 0.2, 1) 0ms,
+      max-width 200ms cubic-bezier(0, 0, 0.2, 1) 0ms;
+    transition: color 200ms cubic-bezier(0, 0, 0.2, 1) 0ms,
+      transform 200ms cubic-bezier(0, 0, 0.2, 1) 0ms,
+      max-width 200ms cubic-bezier(0, 0, 0.2, 1) 0ms;
+    z-index: 1;
+    pointer-events: none;
+    color: rgba(58, 53, 65, 0.68);
+  }
+  .css-1dwrxu1.Mui-focused {
+    color: #9155fd;
+  }
+  .css-1dwrxu1.Mui-disabled {
+    color: rgba(58, 53, 65, 0.38);
+  }
+  .css-1dwrxu1.Mui-error {
+    color: #ff4c51;
+  }
+  .css-1wt7s0s {
+    font-family: Inter, sans-serif, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.4375em;
+    letter-spacing: 0.15px;
+    color: rgba(58, 53, 65, 0.87);
+    box-sizing: border-box;
+    position: relative;
+    cursor: text;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    border-radius: 6px;
+  }
+  .css-1wt7s0s.Mui-disabled {
+    color: rgba(58, 53, 65, 0.38);
+    cursor: default;
+  }
+  .css-1wt7s0s:hover .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(58, 53, 65, 0.87);
+  }
+  @media (hover: none) {
+    .css-1wt7s0s:hover .MuiOutlinedInput-notchedOutline {
+      border-color: rgba(0, 0, 0, 0.23);
+    }
+  }
+  .css-1wt7s0s.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #9155fd;
+    border-width: 2px;
+  }
+  .css-1wt7s0s.Mui-error .MuiOutlinedInput-notchedOutline {
+    border-color: #ff4c51;
+  }
+  .css-1wt7s0s.Mui-disabled .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(58, 53, 65, 0.3);
+  }
+  .css-1wt7s0s:hover:not(.Mui-focused) .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(58, 53, 65, 0.32);
+  }
+  .css-1wt7s0s:hover.Mui-error .MuiOutlinedInput-notchedOutline {
+    border-color: #ff4c51;
+  }
+  .css-1wt7s0s .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(58, 53, 65, 0.22);
+  }
+  .css-1wt7s0s.Mui-disabled .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(58, 53, 65, 0.38);
+  }
+  .css-dxkv36 {
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentColor;
+    padding: 4px 0 5px;
+    border: 0;
+    box-sizing: content-box;
+    background: none;
+    height: 1.4375em;
+    margin: 0;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0;
+    width: 100%;
+    -webkit-animation-name: mui-auto-fill-cancel;
+    animation-name: mui-auto-fill-cancel;
+    -webkit-animation-duration: 10ms;
+    animation-duration: 10ms;
+    padding: 16.5px 14px;
+  }
+  .css-dxkv36::-webkit-input-placeholder {
+    color: currentColor;
+    opacity: 0.42;
+    -webkit-transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .css-dxkv36::-moz-placeholder {
+    color: currentColor;
+    opacity: 0.42;
+    -webkit-transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .css-dxkv36:-ms-input-placeholder {
+    color: currentColor;
+    opacity: 0.42;
+    -webkit-transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .css-dxkv36::-ms-input-placeholder {
+    color: currentColor;
+    opacity: 0.42;
+    -webkit-transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .css-dxkv36:focus {
+    outline: 0;
+  }
+  .css-dxkv36:invalid {
+    box-shadow: none;
+  }
+  .css-dxkv36::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-dxkv36::-webkit-input-placeholder {
+    opacity: 0 !important;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-dxkv36::-moz-placeholder {
+    opacity: 0 !important;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-dxkv36:-ms-input-placeholder {
+    opacity: 0 !important;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-dxkv36::-ms-input-placeholder {
+    opacity: 0 !important;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-dxkv36:focus::-webkit-input-placeholder {
+    opacity: 0.42;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-dxkv36:focus::-moz-placeholder {
+    opacity: 0.42;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-dxkv36:focus:-ms-input-placeholder {
+    opacity: 0.42;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-dxkv36:focus::-ms-input-placeholder {
+    opacity: 0.42;
+  }
+  .css-dxkv36.Mui-disabled {
+    opacity: 1;
+    -webkit-text-fill-color: rgba(58, 53, 65, 0.38);
+  }
+  .css-dxkv36:-webkit-autofill {
+    -webkit-animation-duration: 5000s;
+    animation-duration: 5000s;
+    -webkit-animation-name: mui-auto-fill;
+    animation-name: mui-auto-fill;
+  }
+  .css-dxkv36:-webkit-autofill {
+    border-radius: inherit;
+  }
+  .css-igs3ac {
+    text-align: left;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    top: -5px;
+    left: 0;
+    margin: 0;
+    padding: 0 8px;
+    pointer-events: none;
+    border-radius: inherit;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    min-width: 0%;
+    border-color: rgba(0, 0, 0, 0.23);
+  }
+  .css-1ftyaf0 {
+    float: unset;
+    overflow: hidden;
+    display: block;
+    width: auto;
+    padding: 0;
+    height: 11px;
+    font-size: 0.75em;
+    visibility: hidden;
+    max-width: 0.01px;
+    -webkit-transition: max-width 50ms cubic-bezier(0, 0, 0.2, 1) 0ms;
+    transition: max-width 50ms cubic-bezier(0, 0, 0.2, 1) 0ms;
+    white-space: nowrap;
+  }
+  .css-1ftyaf0 > span {
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    opacity: 0;
+    visibility: visible;
+  }
+  .css-tzsjye {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    vertical-align: top;
+    width: 100%;
+  }
+  .css-mm5uz0 {
+    font-family: Inter, sans-serif, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.4375em;
+    letter-spacing: 0.15px;
+    color: rgba(58, 53, 65, 0.87);
+    box-sizing: border-box;
+    position: relative;
+    cursor: text;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+    border-radius: 6px;
+    padding-right: 14px;
+  }
+  .css-mm5uz0.Mui-disabled {
+    color: rgba(58, 53, 65, 0.38);
+    cursor: default;
+  }
+  .css-mm5uz0:hover .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(58, 53, 65, 0.87);
+  }
+  @media (hover: none) {
+    .css-mm5uz0:hover .MuiOutlinedInput-notchedOutline {
+      border-color: rgba(0, 0, 0, 0.23);
+    }
+  }
+  .css-mm5uz0.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #9155fd;
+    border-width: 2px;
+  }
+  .css-mm5uz0.Mui-error .MuiOutlinedInput-notchedOutline {
+    border-color: #ff4c51;
+  }
+  .css-mm5uz0.Mui-disabled .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(58, 53, 65, 0.3);
+  }
+  .css-mm5uz0:hover:not(.Mui-focused) .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(58, 53, 65, 0.32);
+  }
+  .css-mm5uz0:hover.Mui-error .MuiOutlinedInput-notchedOutline {
+    border-color: #ff4c51;
+  }
+  .css-mm5uz0 .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(58, 53, 65, 0.22);
+  }
+  .css-mm5uz0.Mui-disabled .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(58, 53, 65, 0.38);
+  }
+  .css-3g8nu5 {
+    font: inherit;
+    letter-spacing: inherit;
+    color: currentColor;
+    padding: 4px 0 5px;
+    border: 0;
+    box-sizing: content-box;
+    background: none;
+    height: 1.4375em;
+    margin: 0;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0;
+    width: 100%;
+    -webkit-animation-name: mui-auto-fill-cancel;
+    animation-name: mui-auto-fill-cancel;
+    -webkit-animation-duration: 10ms;
+    animation-duration: 10ms;
+    padding: 16.5px 14px;
+    padding-right: 0;
+  }
+  .css-3g8nu5::-webkit-input-placeholder {
+    color: currentColor;
+    opacity: 0.42;
+    -webkit-transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .css-3g8nu5::-moz-placeholder {
+    color: currentColor;
+    opacity: 0.42;
+    -webkit-transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .css-3g8nu5:-ms-input-placeholder {
+    color: currentColor;
+    opacity: 0.42;
+    -webkit-transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .css-3g8nu5::-ms-input-placeholder {
+    color: currentColor;
+    opacity: 0.42;
+    -webkit-transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .css-3g8nu5:focus {
+    outline: 0;
+  }
+  .css-3g8nu5:invalid {
+    box-shadow: none;
+  }
+  .css-3g8nu5::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-3g8nu5::-webkit-input-placeholder {
+    opacity: 0 !important;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-3g8nu5::-moz-placeholder {
+    opacity: 0 !important;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-3g8nu5:-ms-input-placeholder {
+    opacity: 0 !important;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-3g8nu5::-ms-input-placeholder {
+    opacity: 0 !important;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-3g8nu5:focus::-webkit-input-placeholder {
+    opacity: 0.42;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-3g8nu5:focus::-moz-placeholder {
+    opacity: 0.42;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-3g8nu5:focus:-ms-input-placeholder {
+    opacity: 0.42;
+  }
+  label[data-shrink="false"]
+    + .MuiInputBase-formControl
+    .css-3g8nu5:focus::-ms-input-placeholder {
+    opacity: 0.42;
+  }
+  .css-3g8nu5.Mui-disabled {
+    opacity: 1;
+    -webkit-text-fill-color: rgba(58, 53, 65, 0.38);
+  }
+  .css-3g8nu5:-webkit-autofill {
+    -webkit-animation-duration: 5000s;
+    animation-duration: 5000s;
+    -webkit-animation-name: mui-auto-fill;
+    animation-name: mui-auto-fill;
+  }
+  .css-3g8nu5:-webkit-autofill {
+    border-radius: inherit;
+  }
+  .css-1pycjxc {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 0.01em;
+    max-height: 2em;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    white-space: nowrap;
+    color: rgba(58, 53, 65, 0.54);
+    margin-left: 8px;
+  }
+  .css-sacmst {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    margin: 0;
+    border-radius: 0;
+    padding: 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    font-size: 1.5rem;
+    padding: 8px;
+    border-radius: 50%;
+    overflow: visible;
+    color: rgba(58, 53, 65, 0.54);
+    -webkit-transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1)
+      0ms;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    margin-right: -12px;
+  }
+  .css-sacmst::-moz-focus-inner {
+    border-style: none;
+  }
+  .css-sacmst.Mui-disabled {
+    pointer-events: none;
+    cursor: default;
+  }
+  @media print {
+    .css-sacmst {
+      -webkit-print-color-adjust: exact;
+      color-adjust: exact;
+    }
+  }
+  .css-sacmst:hover {
+    background-color: rgba(58, 53, 65, 0.04);
+  }
+  @media (hover: none) {
+    .css-sacmst:hover {
+      background-color: transparent;
+    }
+  }
+  .css-sacmst.Mui-disabled {
+    background-color: transparent;
+    color: rgba(58, 53, 65, 0.3);
+  }
+  .css-vubbuv {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    fill: currentColor;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    -webkit-transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-size: 1.5rem;
+  }
+  .css-1hb7t2u {
+    margin-bottom: 1rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+  }
+  .css-1ccfs5r {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    cursor: pointer;
+    vertical-align: middle;
+    -webkit-tap-highlight-color: transparent;
+    margin-left: -11px;
+    margin-right: 16px;
+  }
+  .css-1ccfs5r.Mui-disabled {
+    cursor: default;
+  }
+  .css-1ccfs5r .MuiFormControlLabel-label.Mui-disabled {
+    color: rgba(58, 53, 65, 0.38);
+  }
+  .css-1ccfs5r .MuiFormControlLabel-label {
+    font-size: 0.875rem;
+    color: rgba(58, 53, 65, 0.68);
+  }
+  .css-vwfnud {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    margin: 0;
+    border-radius: 0;
+    padding: 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    color: inherit;
+    padding: 9px;
+    border-radius: 50%;
+    color: rgba(58, 53, 65, 0.68);
+  }
+  .css-vwfnud::-moz-focus-inner {
+    border-style: none;
+  }
+  .css-vwfnud.Mui-disabled {
+    pointer-events: none;
+    cursor: default;
+  }
+  @media print {
+    .css-vwfnud {
+      -webkit-print-color-adjust: exact;
+      color-adjust: exact;
+    }
+  }
+  .css-vwfnud:hover {
+    background-color: rgba(145, 85, 253, 0.04);
+  }
+  @media (hover: none) {
+    .css-vwfnud:hover {
+      background-color: transparent;
+    }
+  }
+  .css-vwfnud.Mui-checked,
+  .css-vwfnud.MuiCheckbox-indeterminate {
+    color: #9155fd;
+  }
+  .css-vwfnud.Mui-disabled {
+    color: rgba(58, 53, 65, 0.3);
+  }
+  .css-1m9pwf3 {
+    cursor: inherit;
+    position: absolute;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 1;
+  }
+  .css-11l6ixd {
+    margin: 0;
+    font-family: Inter, sans-serif, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 0.15px;
+    color: rgba(58, 53, 65, 0.87);
+  }
+  .css-dmdf8o {
+    font-size: 0.875rem;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    color: #9155fd;
+  }
+  .css-irqdl1 {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    margin: 0;
+    border-radius: 0;
+    padding: 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    color: inherit;
+    font-family: Inter, sans-serif, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 500;
+    font-size: 0.9375rem;
+    line-height: 1.75;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    color: #fff;
+    min-width: 64px;
+    padding: 8px 22px;
+    border-radius: 6px;
+    -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1)
+        0ms,
+      box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+      border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+      color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+      box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+      border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+      color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    background-color: #9155fd;
+    box-shadow: 0px 3px 1px -2px rgba(58, 53, 65, 0.2),
+      0px 2px 2px 0px rgba(58, 53, 65, 0.14),
+      0px 1px 5px 0px rgba(58, 53, 65, 0.12);
+    width: 100%;
+    font-weight: 500;
+    border-radius: 5px;
+    line-height: 1.71;
+    letter-spacing: 0.3px;
+    padding: 0.46875rem 0.75rem;
+    box-shadow: 0px 4px 8px -4px rgba(58, 53, 65, 0.42);
+    padding: 0.46875rem 1.375rem;
+    padding: 0.53125rem 1.375rem;
+    margin-bottom: 1.75rem;
+  }
+  .css-irqdl1::-moz-focus-inner {
+    border-style: none;
+  }
+  .css-irqdl1.Mui-disabled {
+    pointer-events: none;
+    cursor: default;
+  }
+  @media print {
+    .css-irqdl1 {
+      -webkit-print-color-adjust: exact;
+      color-adjust: exact;
+    }
+  }
+  .css-irqdl1:hover {
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    background-color: #804bdf;
+    box-shadow: 0px 6px 18px -8px rgba(58, 53, 65, 0.56);
+  }
+  @media (hover: none) {
+    .css-irqdl1:hover {
+      background-color: #9155fd;
+    }
+  }
+  .css-irqdl1:active {
+    box-shadow: 0px 5px 5px -3px rgba(58, 53, 65, 0.2),
+      0px 8px 10px 1px rgba(58, 53, 65, 0.14),
+      0px 3px 14px 2px rgba(58, 53, 65, 0.12);
+  }
+  .css-irqdl1.Mui-focusVisible {
+    box-shadow: 0px 2px 10px 0px rgba(58, 53, 65, 0.1);
+  }
+  .css-irqdl1.Mui-disabled {
+    color: rgba(58, 53, 65, 0.3);
+    box-shadow: none;
+    background-color: rgba(58, 53, 65, 0.18);
+  }
+  .css-irqdl1.MuiButton-contained {
+    padding: 0.53125rem 1.625rem;
+  }
+  .css-irqdl1.MuiButton-outlined {
+    padding: 0.46875rem 1.5625rem;
+  }
+  .css-z0xj7h {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .css-yg3dyq {
+    margin: 0;
+    font-family: Inter, sans-serif, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    letter-spacing: 0.15px;
+    color: rgba(58, 53, 65, 0.68);
+    margin-right: 0.5rem;
+  }
+  .css-18tthos {
+    margin: 0;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    border-width: 0;
+    border-style: solid;
+    border-color: rgba(58, 53, 65, 0.12);
+    border-bottom-width: thin;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    white-space: nowrap;
+    text-align: center;
+    border: 0;
+    margin: 0.5rem 0;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+  .css-18tthos::before,
+  .css-18tthos::after {
+    position: relative;
+    width: 100%;
+    border-top: thin solid rgba(58, 53, 65, 0.12);
+    top: 50%;
+    content: "";
+    -webkit-transform: translateY(50%);
+    -moz-transform: translateY(50%);
+    -ms-transform: translateY(50%);
+    transform: translateY(50%);
+  }
+  .css-1mjhz9d {
+    display: inline-block;
+    padding-left: calc(0.25rem * 1.2);
+    padding-right: calc(0.25rem * 1.2);
+  }
+  .css-gmuwbf {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .css-i9hf7q {
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    margin: 0;
+    border-radius: 0;
+    padding: 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    -webkit-flex: 0 0 auto;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    font-size: 1.5rem;
+    padding: 8px;
+    border-radius: 50%;
+    overflow: visible;
+    color: rgba(58, 53, 65, 0.54);
+    -webkit-transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1)
+      0ms;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .css-i9hf7q::-moz-focus-inner {
+    border-style: none;
+  }
+  .css-i9hf7q.Mui-disabled {
+    pointer-events: none;
+    cursor: default;
+  }
+  @media print {
+    .css-i9hf7q {
+      -webkit-print-color-adjust: exact;
+      color-adjust: exact;
+    }
+  }
+  .css-i9hf7q:hover {
+    background-color: rgba(58, 53, 65, 0.04);
+  }
+  @media (hover: none) {
+    .css-i9hf7q:hover {
+      background-color: transparent;
+    }
+  }
+  .css-i9hf7q.Mui-disabled {
+    background-color: transparent;
+    color: rgba(58, 53, 65, 0.3);
+  }
+  .css-1eqhnle {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    fill: currentColor;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    -webkit-transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-size: 1.5rem;
+    color: #497ce2;
+  }
+  .css-18f0ce8 {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    fill: currentColor;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    -webkit-transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-size: 1.5rem;
+    color: #1da1f2;
+  }
+  .css-1akpjpz {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    fill: currentColor;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    -webkit-transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-size: 1.5rem;
+    color: #272727;
+  }
+  .css-1944n5i {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    fill: currentColor;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    -webkit-transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-size: 1.5rem;
+    color: #db4437;
+  }
+  .css-1lwg88w {
+    left: 0;
+    bottom: 0;
+    position: absolute;
+  }
+  .css-84vgca {
+    bottom: 0;
+    z-index: -1;
+    width: 100%;
+    position: absolute;
+  }
+  .css-c0oycv {
+    right: 0;
+    bottom: 0;
+    position: absolute;
+  }
+
+ 
+  /* ==========================ROUND FIVE=========================================== */
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+    -webkit-text-size-adjust: 100%;
+  }
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+  strong,
+  b {
+    font-weight: 700;
+  }
+  body {
+    margin: 0;
+    color: rgba(58, 53, 65, 0.87);
+    font-family: Inter, sans-serif, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: 0.15px;
+    background-color: #f4f5fa;
+  }
+  @media print {
+    body {
+      background-color: #fff;
+    }
+  }
+  body::backdrop {
+    background-color: #f4f5fa;
+  }
+
